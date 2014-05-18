@@ -1,3 +1,4 @@
 <? php
-echo "anjan" ;
+echo "anjan";
+echo "ramu";
 ?>
